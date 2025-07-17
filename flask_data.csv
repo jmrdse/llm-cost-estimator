@@ -1,0 +1,22 @@
+provider,model,input_cost_per_1k,output_cost_per_1k,input_cost_per_1m,output_cost_per_1m
+Anthropic,Claude Opus 4,0.015,0.075,15,75
+Anthropic,Claude Sonnet 4,0.003,0.015,3,15
+Anthropic,Claude 3.7 Sonnet,0.003,0.015,3,15
+Anthropic,Claude 3 Sonnet,0.003,0.015,3,15
+Anthropic,Claude 3.5 Haiku,0.0008,0.004,0.8,4
+Anthropic,Claude 3 Haiku,0.00025,0.00125,0.25,1.25
+Google,Gemini 2.5 Pro,0.00125,0.01,1.25,10
+Google,Gemini 2.5 Flash,0.0003,0.0025,0.3,2.5
+Google,Gemini 2.5 Flash Lite Preview,0.0001,0.0004,0.1,0.4
+Google,Gemini 2.0 Flash,0.0001,0.0004,0.1,0.4
+OpenAI,GPT-4o,0.0025,0.01,2.5,10
+OpenAI,GPT-4o mini,0.00015,0.0006,0.15,0.6
+OpenAI,GPT-4.1,0.002,0.008,2,8
+OpenAI,GPT-4.1 mini,0.0004,0.0016,0.4,1.6
+OpenAI,GPT-4.1 nano,0.0001,0.0004,0.1,0.4
+OpenAI,o3,0.002,0.008,2,8
+OpenAI,o4-mini,0.0011,0.0044,1.1,4.4
+xAI,Grok 4,0.003,0.015,3,15
+xAI,Grok 3,0.003,0.015,3,15
+xAI,Grok 3 mini,0.0003,0.0005,0.3,0.5
+Phil,GPT4,0.049519659,0.049519659,49.5196593,49.5196593
